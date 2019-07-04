@@ -1,1 +1,2 @@
-\@<-koredendenmusininiteru
+#include <stdio.h>
+
